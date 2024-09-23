@@ -5,7 +5,7 @@
     </div>
     <div align= "center"> 
 <!--     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>   -->
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #0bda37;">  </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -35,9 +35,10 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhj1819&layout=compact&bg_color=180,232323,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
+<div align= "center">
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhhh2222)](https://solved.ac/jhhh2222)
+    </div>
 
-    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhhh2222)](https://solved.ac/jhhh2222)
 <!--
 **jhj1819/jhj1819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
